@@ -1,0 +1,17 @@
+﻿.git/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
+data/processed/
+data/raw/
+data/external/
+archive/
+scripts/
+tetris.html
+backup/
+*.log
+*.ipynb
+node_modules/
